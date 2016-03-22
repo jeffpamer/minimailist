@@ -1,0 +1,4 @@
+(ns minimailist.db)
+
+(def default-db
+  {:name "re-frame"})
